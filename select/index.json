@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "森の小さなレストラン",
+  "base_artist": "手嶌葵",
+  "createdAt": "2025-12-05T05:27:17.623055Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "森の小さなレストラン",
+      "artist": "手嶌 葵",
+      "has_synced": false,
+      "path": "select/pl_01_森の小さなレストラン_手嶌_葵.txt"
+    }
+  ]
+}
